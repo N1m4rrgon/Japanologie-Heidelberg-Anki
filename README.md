@@ -19,77 +19,49 @@ Bei vielen der händischen Übersetzungen habe ich mich am wadokudaijiten vibe-b
 # **Roadmap**
 
 Einige Dinge die ich in den nächsten Monaten/Jahren gerne umsetzen würde:
-
 - Alle Vokabeln um natürliche Vertonungen ergänzen (bestehende AI-Voices nach und nach ersetzen)
-    
-- Alle Vokabeln um Immersion-Sätze ergänzen
-    
-- Englische Übersetzungen von JLPT-Vokabeln durch deutsche Übersetzunen ersetzen
-    
-- Ergänzung aller Vokabeln um AI-Erklärungen zur Verwendung der Vokabel im Satzkontext (japanische und deutsche)
-    
-- Grammatik-Pattern mit Beispielsätzen
-    
-- Dedizierte Shadowing-Decks
-    
+- Alle Vokabeln um Immersion-Sätze ergänzen 
+- Englische Übersetzungen von JLPT-Vokabeln durch deutsche Übersetzunen ersetzen   
+- Ergänzung aller Vokabeln um AI-Erklärungen zur Verwendung der Vokabel im Satzkontext (japanische und deutsche)  
+- Grammatik-Pattern mit Beispielsätzen  
+- Dedizierte Shadowing-Decks    
 - Hiragana/Katakana Deck (Audio->Kana)
     
-
 Konkret arbeite ich mich von vorne nach hinten durch und ergänze die Vokabeln um die o.g. Aspekte. Manchmal ergänze ich zwischendurch vielleicht durch andere Features.
 
 # **Inhalte**
 
-- Modernes Japanisch I
-    
-- Modernes Japanisch II
-    
-- Modernes Japanisch III
-    
-- Modernes Japanisch IV
-    
-- Modernes Japanisch V
-    
-- Fachwortschatz Literatur
-    
-- Fachwortschatz Politik
-    
-- Kanji aus dem Aktiv-Kanji-Kurs
-    
-- JLPT Vokabellisten (wirklich offizielle JLPT-Listen gibt es meines Wissens nach aktuell nicht)
-    
 
+Das ursprüngliche Deck [Japanisch 9K](https://ankiweb.net/shared/info/1957763236) ist mittlerweile zu umfangreich,<br>
+und nicht mehr als einzelnes Deck uploadbar daher in Zukunft die Aufsplittung in: <br>
+- [Modernes Japanisch I + JLPT N5 Vokabeln](https://ankiweb.net/shared/info/223425513) 
+- [Modernes Japanisch II + JLPT N4 Vokabeln](https://ankiweb.net/shared/info/1302353191) 
+- [Modernes Japanisch III + JLPT N3 Vokabeln](https://ankiweb.net/shared/info/828941941) 
+- [Modernes Japanisch IV + JLPT N2 Vokabeln](https://ankiweb.net/shared/info/1297526973) 
+- [Modernes Japanisch V](https://ankiweb.net/shared/info/1930766654) 
+- [Fachwortschatz Literatur](https://ankiweb.net/shared/info/1957763236) 
+- [Fachwortschatz Politik](https://ankiweb.net/shared/info/1957763236) 
+- [Kanji aus dem Aktiv-Kanji-Kurs](https://ankiweb.net/shared/info/668749901)  
+    
 Weitere Ergänzungen bzw. Decks die auf dem Vokabular der Intensivsprachkurse in Heidelberg aufbauen werden folgen.
+
 
 # **Aktuelle Features**
 
 - Kanji Stroke Order
-
 - Kanji Infos (Kanji Bedeutung, Lesung etc.)
-    
 - Pitch Graph zu den Vokabeln
-    
 - Immersion-Sätze
-    
 - Kontextbilder zu den Immersion-Sätzen
-    
 - Pitch coloring zu den Immersion-Sätzen
-    
 - Vokabel-Audio - Satz-Audio
-    
 - Erklärung zur Vokabel auf Deutsch
-    
 - Erklärung zur Vokabel auf Japanisch
-    
 - Weitere Beispielsätze
-    
 - Lesungen der Vokabeln
-    
 - Lesungen der Immersion-Sätze
-    
 - Englische Übersetzungen der Immersion-Sätze
-    
 - Japanische Wörterbuchauszüge zu den Vokabeln
-    
 
 Wenn ihr Fragen oder Anregungen habt macht gerne ein Issue auf.
 Seid ihr vielleicht selbst an der Japanologie und merkt, dass sich an den Kursen was verändert hat könnt ihr mir auch gerne Bescheid geben dann passe ich das entsprechend an. 
