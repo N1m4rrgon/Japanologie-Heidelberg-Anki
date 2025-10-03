@@ -21,7 +21,7 @@ Bei vielen der händischen Übersetzungen habe ich mich am wadokudaijiten vibe-b
 Einige Dinge die ich in den nächsten Monaten/Jahren gerne umsetzen würde:
 - Alle Vokabeln um natürliche Vertonungen ergänzen (bestehende AI-Voices nach und nach ersetzen)
 - Alle Vokabeln um Immersion-Sätze ergänzen 
-- Englische Übersetzungen von JLPT-Vokabeln durch deutsche Übersetzunen ersetzen   
+- Englische Übersetzungen von JLPT-Vokabeln durch deutsche Übersetzungen ersetzen   
 - Ergänzung aller Vokabeln um AI-Erklärungen zur Verwendung der Vokabel im Satzkontext (japanische und deutsche)  
 - Grammatik-Pattern mit Beispielsätzen  
 - Dedizierte Shadowing-Decks    
