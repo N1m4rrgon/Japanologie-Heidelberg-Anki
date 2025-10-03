@@ -1,6 +1,6 @@
 # Japanologie-Heidelberg-Anki
 
-### **Hintergründe zum Deck**
+# **Hintergründe zum Deck**
 
 Der Ursprung des Decks liegt im Vokabular des Japanologie Studiums in Heidelberg.  
 Zunächst wurden die gesamten Vokabeln des Studiums in Memrise eingepflegt.  
@@ -16,7 +16,7 @@ Mit den vielen Ergänzungen wurde das Deck aber eben auch immer größer, bis zu
 
 Bei vielen der händischen Übersetzungen habe ich mich am wadokudaijiten vibe-based orientiert. Die Fachwortschatz-Vokabeln sollten eigentlich alle den Übersetzungen durch die Dozierenden damals entsprechen.
 
-### **Roadmap**
+# **Roadmap**
 
 Einige Dinge die ich in den nächsten Monaten/Jahren gerne umsetzen würde:
 
@@ -37,7 +37,7 @@ Einige Dinge die ich in den nächsten Monaten/Jahren gerne umsetzen würde:
 
 Konkret arbeite ich mich von vorne nach hinten durch und ergänze die Vokabeln um die o.g. Aspekte. Manchmal ergänze ich zwischendurch vielleicht durch andere Features.
 
-### **Inhalte**
+# **Inhalte**
 
 - Modernes Japanisch I
     
@@ -60,7 +60,7 @@ Konkret arbeite ich mich von vorne nach hinten durch und ergänze die Vokabeln u
 
 Weitere Ergänzungen bzw. Decks die auf dem Vokabular der Intensivsprachkurse in Heidelberg aufbauen werden folgen.
 
-### **Aktuelle Features**
+# **Aktuelle Features**
 
 - Kanji Stroke Order
 
