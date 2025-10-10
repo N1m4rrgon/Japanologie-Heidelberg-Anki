@@ -6,14 +6,9 @@ Hintergrundinfos, weitere Ressourcen, Anregungen, Fragen etc. [hier](https://git
 
 # Kartenlayout
 
-<img src="https://i.postimg.cc/mrQZRKLm/Japanisch-Abfrage.png">
-<img src="https://i.postimg.cc/43z4Zjfj/Keyboard-Eingabe.png">
-<img src="https://i.postimg.cc/tghRy8qS/Hoerverstaendnis.png">
-<img src="https://i.postimg.cc/SKWQqHSG/Pitch-Abfrage.png">
-<img src="https://i.postimg.cc/s2pfybjn/Kanji-Infos.png">
-<img src="https://i.postimg.cc/VNjs12fZ/Rueckseite.png">
-
-
+<img src="https://i.postimg.cc/y6JFR7RY/Screenshot-20251010-192738.png"> <img src="https://i.postimg.cc/ZY16FXPz/Screenshot-20251010-192751.png">
+<img src="https://i.postimg.cc/G3BkDbD2/Screenshot-20251010-192942.png"> <img src="https://i.postimg.cc/ryv5C7GL/Screenshot-20251010-192815.png">
+<img src="https://i.postimg.cc/Dft1dRQf/Screenshot-20251010-193014.png"> <img src="https://i.postimg.cc/v8p5LC7s/Screenshot-20251010-192947.png">
 
 
 # Updates <br>
