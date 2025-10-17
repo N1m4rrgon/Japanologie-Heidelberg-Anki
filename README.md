@@ -1,5 +1,23 @@
 # Japanologie-Heidelberg-Anki
 
+
+# 
+## 🌐 Deck Syncing <br>
+
+Um das Deck regelmäßig zu updaten und es mit neuen Korrekturen/Features, ohne Versionschaos, synchron zu halten <br>
+könnt ihr bald [AnkiCollab Addon](https://ankiweb.net/shared/info/1957538407) nutzen.
+
+
+<br>
+
+
+
+
+
+
+
+
+
 # **Hintergründe zum Deck**
 
 Der Ursprung des Decks liegt im Vokabular des Japanologie Studiums in Heidelberg.  
