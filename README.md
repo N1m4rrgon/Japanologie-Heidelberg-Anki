@@ -6,8 +6,10 @@
 
 Um das Deck regelmäßig zu updaten und es mit neuen Korrekturen/Features, ohne Versionschaos, synchron zu halten <br>
 könnt ihr [AnkiCollab Addon](https://ankiweb.net/shared/info/1957538407) nutzen.
+<br><br>
+Subscription-Key: <br>
 <br>
-Subscription-Key: lemon-venus-london-snake-montana-maryland
+lemon-venus-london-snake-montana-maryland
 
 
 <br>
