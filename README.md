@@ -5,7 +5,9 @@
 ## 🌐 Deck Syncing <br>
 
 Um das Deck regelmäßig zu updaten und es mit neuen Korrekturen/Features, ohne Versionschaos, synchron zu halten <br>
-könnt ihr bald [AnkiCollab Addon](https://ankiweb.net/shared/info/1957538407) nutzen.
+könnt ihr [AnkiCollab Addon](https://ankiweb.net/shared/info/1957538407) nutzen.
+<br>
+Subscription-Key: lemon-venus-london-snake-montana-maryland
 
 
 <br>
